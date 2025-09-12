@@ -20,7 +20,7 @@ where the text files have a format similar to those in the test-data folder
 
 ### Example for smaples in the test-data folder
 ```Matlab
-   main   ./test/data1-firstFrame.txt   ./test/data1-secondFrame.txt
-   main   ./test/data2-firstFrame.txt   ./test/data2-secondFrame.txt
-   main   ./test/data3-firstFrame.txt   ./test/data3-secondFrame.txt
+   main   ./test-data/data1-firstFrame.txt   ./test/data1-secondFrame.txt
+   main   ./test-data/data2-firstFrame.txt   ./test/data2-secondFrame.txt
+   main   ./test-data/data3-firstFrame.txt   ./test/data3-secondFrame.txt
 ```
